@@ -1,10 +1,4 @@
-#Planejamento timesheet pessoal para sistemas moveis.
-
-
-
-
-
-
+# Planejamento timesheet pessoal para sistemas moveis.
 
 = Release 0 = 
  * Requisitos
