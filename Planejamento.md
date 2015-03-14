@@ -1,0 +1,29 @@
+# Release 0 #
+  * Requisitos
+  * Prototipo das telas
+  * Modelo de Dados
+  * Projeto no google code.
+  * Definir nome para o software.
+
+# Release 1 #
+  * Funcao Start iniciar
+  * Registro de atividades.
+  * Tela inicial.
+
+# Release 2 #
+  * Cadastros cliente
+  * Projeto
+  * Atividades
+  * Tipo atividade
+
+# Release 3 #
+  * Ajustes  e melhorias dos release 1 e 2
+  * Sumario na tela inicial.
+  * Parametros de configuracao e preferencias.
+  * Alarmes e alertas.
+
+> # Release 4 #
+  * Ajustes e melhorias dos release anteriores. Codigo perfomace e uso.
+  * Wiget para start de atividade.
+  * Backup xml.
+  * Relatorios de estatistica.

@@ -1,0 +1,1 @@
+Personal interactive timesheet/timetracker for Android Plataform
